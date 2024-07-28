@@ -40,7 +40,6 @@
     stealthy: true
     stripTimeReduction: 1
   - type: Speech
-    speechVerb: Felinid
     speechSounds: Alto
   - type: DamageOnHighSpeedImpact
     damage:
